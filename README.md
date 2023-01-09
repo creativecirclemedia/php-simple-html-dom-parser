@@ -1,6 +1,8 @@
 php-simple-html-dom-parser
 ==========================
 
+CCMS Fork
+
 Version 1.5.2
 
 Adaptation for Composer and PSR-0 of:
